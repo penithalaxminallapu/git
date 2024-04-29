@@ -1,4 +1,5 @@
 print("bhav")
-print("ammusu")
+print("ammu")
 print("lalit")
 print("lik")
+print("sruj")
